@@ -1,6 +1,6 @@
 {
-  "name": "redux-auth-wrapper",
-  "version": "1.1.0",
+  "name": "redux-auth-wrapper-boolean",
+  "version": "1.2.0",
   "description": "A utility library for handling authentication and authorization for redux and react-router",
   "main": "lib/index.js",
   "files": [
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mjrussell/redux-auth-wrapper.git"
+    "url": "https://github.com/gfpacheco/redux-auth-wrapper-boolean.git"
   },
   "authors": [
     "Matthew Russell"
